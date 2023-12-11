@@ -1,2 +1,2 @@
 # Exerc-cios-de-c-
-Exercícios básicos para aprendizado de programação na linguagem c++
+Exercicios basicos para aprendizado de programacao na linguagem c++
